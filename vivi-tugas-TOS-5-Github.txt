@@ -1,0 +1,16 @@
+vivi tugas TOS 5 Github
+<!DOCTYPE html>
+<html>
+<head>
+	<title>javascrip</title>
+</head>
+<body>
+	<h1>hello world</h1>
+
+
+<script src="contoh2.js"></script>
+</body>
+</html>
+var x = 10;
+console.log('hello world!');
+console.log('isi dari variabel x adalah'+ x);
