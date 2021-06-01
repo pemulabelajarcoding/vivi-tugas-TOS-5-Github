@@ -14,3 +14,5 @@ vivi tugas TOS 5 Github
 var x = 20;
 console.log('hello world!');
 console.log('isi dari variabel x adalah'+ x);
+
+-cobalah untuk melakukan coding yang lain untuk menambah pemahaman anda
