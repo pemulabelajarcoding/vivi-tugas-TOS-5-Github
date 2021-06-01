@@ -1,0 +1,30 @@
+RENCANA MENRJAKAN TUGAS TOS
+
+<!DOCTYPE html>
+<html leng="en">
+<head>
+	<meta charset="UFT-8">
+	<title>pengulagan</title>
+</head>
+<body>
+
+<script src="switch.js"></script>
+</body>
+</html>
+
+var angka = prompt('masukan angka:');
+
+switch( angka ) {
+	case '1' :
+	 alert('anda memasukkan angka 1');
+	 break;
+    case '2' :
+     alert('anda memasukkan angka 2');
+     break;
+    case '3' :
+     alert('anda memasukkan angka 3');
+     break;
+    default :
+     alert('angka yang anda masukan salah');
+     break;
+}
