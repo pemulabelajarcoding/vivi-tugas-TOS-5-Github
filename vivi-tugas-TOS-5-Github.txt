@@ -2,17 +2,17 @@ vivi tugas TOS 5 Github
 <!DOCTYPE html>
 <html>
 <head>
-	<title>javascrip</title>
+	<title>javascript</title>
 </head>
 <body>
-	<h1>hello world</h1>
+	<h1>Halo Dunia!</h1>
 
 
 <script src="contoh2.js"></script>
 </body>
 </html>
 var x = 20;
-console.log('hello world!');
+console.log('Halo Dunia!');
 console.log('isi dari variabel x adalah'+ x);
 
 -cobalah untuk melakukan coding yang lain untuk menambah pemahaman anda
