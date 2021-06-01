@@ -16,3 +16,6 @@ console.log('hello world!');
 console.log('isi dari variabel x adalah'+ x);
 
 -cobalah untuk melakukan coding yang lain untuk menambah pemahaman anda
+-cobalah untuk melakukan coding yang css untuk menambah pemahaman anda 
+-cobalah untuk melakukan coding yang php untuk menambah pemahaman anda
+
